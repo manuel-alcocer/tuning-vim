@@ -1,6 +1,5 @@
 # Tuneando VIM
 
-Instalar You-Complete-me para vim en Debian Jessie
 Aquí se explica como tunear un poco vim añadiendo el gestor de plugins: 'vim-plug' y ya de paso se explica como instalar mediante él el plugin de autocompletado 'you-complete-me'
 
 ![alt_tag](vim.png?raw_true "vim")
